@@ -378,4 +378,28 @@ body {
 .comentarios .names{
   font-weight: bold;
 }
-              
+
+.content {
+  display: flex;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+
+.tweet-icons {
+  display: flex;
+  flex-direction: column; /* Los íconos aparecerán en una columna */
+  justify-content: center; /* Centra los íconos verticalmente */
+  align-items: flex-end; /* Los íconos se alinearán a la derecha */
+  margin-left: 10px; /* Espacio entre el contenido y los íconos */
+}
+
+/* Cambia el color del corazón (like) */
+.tweet-icons .fa-heart {
+  color: #ff5733;
+}
+
+/* Cambia el color del botón de retweet */
+.tweet-icons .fa-retweet {
+  color: #55aa55;
+}
