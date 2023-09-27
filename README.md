@@ -2,21 +2,19 @@
 
 En este ejercicio intentaremos realizar una réplica del antiguo twitter.
 La idea es que puedan crear su propio servidor de JSON para podes alimentar nuestra red social con varios twits
-<img src="https://github.com/uscudum/JaP-S13-TwitterReplica/blob/master/img/result.PNG">
-
+<img src="./img/result.PNG">
 
 Generar tus propios datos aleatorios en: https://generatedata.com/
-<img src="https://github.com/uscudum/JaP-S13-TwitterReplica/blob/master/img/generatedata.PNG">
+<img src="./img/generatedata.PNG">
 
 Utilizando My JSON Server levantaremos nuestro propio JSON Server: https://my-json-server.typicode.com/
-<img src="https://github.com/uscudum/JaP-S13-TwitterReplica/blob/master/img/JSON%20Server.PNG">
+<img src="./img/JSON Server.PNG">
 
 Repositorio
-<img src="https://github.com/uscudum/JaP-S13-TwitterReplica/blob/master/img/repositorio.PNG">
+<img src="./img/repositorio.PNG">
 
 db.json
-<img src="https://github.com/uscudum/JaP-S13-TwitterReplica/blob/master/img/db.json.PNG">
-
+<img src="./img/db.json.PNG">
 
 Luego realiza una solicitud get para obtener esa información y listarla como si fueran nuevos twits.
 
